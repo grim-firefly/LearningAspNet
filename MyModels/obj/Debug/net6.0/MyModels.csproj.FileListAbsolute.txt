@@ -1,0 +1,12 @@
+E:\Project\Affilno_asp\LearnIdentity\MyModels\bin\Debug\net6.0\MyModels.deps.json
+E:\Project\Affilno_asp\LearnIdentity\MyModels\bin\Debug\net6.0\MyModels.dll
+E:\Project\Affilno_asp\LearnIdentity\MyModels\bin\Debug\net6.0\MyModels.pdb
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\MyModels.csproj.AssemblyReference.cache
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\MyModels.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\MyModels.AssemblyInfoInputs.cache
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\MyModels.AssemblyInfo.cs
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\MyModels.csproj.CoreCompileInputs.cache
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\MyModels.dll
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\refint\MyModels.dll
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\MyModels.pdb
+E:\Project\Affilno_asp\LearnIdentity\MyModels\obj\Debug\net6.0\ref\MyModels.dll

@@ -1,0 +1,12 @@
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\bin\Debug\net6.0\DataAccess.dll
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\DataAccess.dll
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+E:\Project\Affilno_asp\LearnIdentity\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
